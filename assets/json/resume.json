@@ -47,7 +47,7 @@
       "summary": "Contribute across the full software development lifecycle as part of an Agile Scrum team, delivering scalable, secure, and high‑performing solutions with minimal supervision. Develop features for data marketplaces, mobile and web applications, and API services while driving the migration of products to the public cloud.",
       "highlights": [
         "Design, build, test, and deploy software using automated CI/CD pipelines, continuously improving speed and quality.",
-        "Implement cloud‑native solutions leveraging Azure DevOps, Kubernetes, Docker, and Terraform.",
+        "Implement cloud‑native solutions leveraging Azure DevOps, Docker, and Terraform.",
         "Develop APIs and services in C# and .NET Core.",
         "Apply strong data/query optimization skills across SQL Server, and NoSQL (CosmosDB) for performance at scale.",
         "Maintain a production‑first mindset, ensuring uptime, rapid triage, and resolution of issues in mission‑critical environments.",

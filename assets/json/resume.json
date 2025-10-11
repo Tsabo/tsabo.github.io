@@ -26,15 +26,15 @@
       "name": "Technologies",
       "keywords": [
         ".NET (Core preview → 10)", "ASP.NET Core", "Blazor", "WPF", "Docker", "Azure Functions", "GitHub Copilot", "Kubernetes", "AKS",
-        "C#", "JavaScript", "TypeScript", "Go", "Java", "HTML", "CSS", "Angular",
+        "C#", "JavaScript", "TypeScript", "HTML", "CSS",
         "Azure DevOps", "Terraform", "Azure Pipelines", "Azure Key Vault", "Azure Blob Storage", "Azure Event Hubs", "Cosmos DB", "Application Insights", "KQL",
-        "Cloudflare Argo Tunnel", "YARP",
-        "Git", "Jira", "Jenkins", "Chef", "Octopus Deploy", "ARM Templates",
+        "Cloudflare Tunnel", "YARP",
+        "Git", "Jira",
         "RESTful APIs", "gRPC", "SignalR", "GraphQL", "MQTT", "MSMQ", "SOAP", "XML-RPC", "Microservices", "Swagger", "Swashbuckle", "OpenAPI",
         "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik", "Azure B2C", "ADFS",
-        "Entity Framework Core", "Cosmos DB", "SQL Server", "Oracle", "NoSQL",
-        "Selenium", "SpecFlow", "Postman", "JMeter",
-        "PowerShell", "Bash",
+        "Entity Framework Core", "Cosmos DB", "SQL Server", "NoSQL",
+        "SpecFlow", "Postman", "Reqnroll",
+        "PowerShell",
         "Windows", "Linux"
       ]
     }

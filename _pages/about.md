@@ -6,7 +6,7 @@ subtitle: Senior Software Developer
 
 profile:
   align: right
-  image: prof_pic_color.jpg
+  image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Northlake, TX</p>

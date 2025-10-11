@@ -96,6 +96,20 @@
   ],
   "projects": [
     {
+      "name": "Semantix",
+      "description": "LSIF‑first, Sourcegraph‑style code intelligence in pure C# with .NET Aspire: multi‑language indexing, deterministic code intel, and semantic search.",
+      "url": "https://github.com/Tsabo/Semantix"
+    },
+    {
+      "name": "ReQonsole",
+      "description": "Yazi-style TUI for OpenAPI/Swagger. Browse an OpenAPI/Swagger API like a file manager. Built with .NET 9 and Spectre.Console.",
+      "url": "https://github.com/Tsabo/ReQonsole"
+    },
+    {
+      "name": "BrowserLogging",
+      "url": "browniellc/BrowserLogging"
+    },
+    {
       "name": "Flex API v2",
       "description": "Complete rewrite of Flex API using ASP.NET Core 7.0 with modular architecture, Blazor frontend, IdentityServer4 authentication, MQTT broker, reporting, and hybrid cloud tunneling.",
       "url": "https://bitbucket.org/ooaccess/flex-api-samples",

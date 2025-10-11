@@ -9,7 +9,7 @@
       "region": "TX",
       "countryCode": "US"
     },
-    "summary": "Methodical and solution-focused Chief Software Architect with 23+ years of full-stack software engineering experience. Expert in the software development lifecycle with a proven history of developing backend services and user interfaces for desktop and web. Proficient in .NET, C#, and AWS/Azure to create scalable and high-performing solutions."
+    "summary": "Methodical and solution-focused Chief Software Architect with 23+ years of full-stack software engineering experience. Expert in the software development lifecycle with a proven history of developing backend services and user interfaces for desktop and web. Proficient in .NET, C#, and Azure to create scalable, observable, and high-performing solutions."
   },
   "skills": [
     {
@@ -25,20 +25,17 @@
     {
       "name": "Technologies",
       "keywords": [
-        ".NET", ".NET Core", ".NET 4.5", ".NET 8", "ASP.NET Core", "ASP.NET MVC", "WPF", "Blazor", "Xamarin", "Silverlight",
-        "C#", "Java", "Go", "JavaScript", "TypeScript", "Node.js", "Angular", "CSS",
-        "Docker", "Kubernetes", "Azure Kubernetes Service (AKS)", "Terraform", "Cloudflare Argo Tunnel", "YARP",
-        "Azure DevOps", "Git", "Jira", "Jenkins", "Chef", "Octopus Deploy", "ARM Templates",
-        "SOAP", "XML-RPC", "RESTful APIs", "SignalR", "gRPC", "GraphQL", "MQTT", "MSMQ", "Microservices",
-        "Swagger", "Swashbuckle", "OpenAPI",
-        "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik", "Azure B2C", "Active Directory Federation Services (ADFS)",
-        "Entity Framework Core", "Telerik OpenAccess ORM", "RemObjects Data Access",
-        "SQL Server", "Oracle", "CosmosDB", "NoSQL",
-        "Selenium", "SpecFlow", "Postman", "JMeter", "Maven", "TestNG", "Xamarin.UITest",
+        ".NET (Core preview → 10)", "ASP.NET Core", "Blazor", "WPF", "Docker", "Azure Functions", "GitHub Copilot", "Kubernetes", "AKS",
+        "C#", "JavaScript", "TypeScript", "Go", "Java", "HTML", "CSS", "Angular",
+        "Azure DevOps", "Terraform", "Azure Pipelines", "Azure Key Vault", "Azure Blob Storage", "Azure Event Hubs", "Cosmos DB", "Application Insights", "KQL",
+        "Cloudflare Argo Tunnel", "YARP",
+        "Git", "Jira", "Jenkins", "Chef", "Octopus Deploy", "ARM Templates",
+        "RESTful APIs", "gRPC", "SignalR", "GraphQL", "MQTT", "MSMQ", "SOAP", "XML-RPC", "Microservices", "Swagger", "Swashbuckle", "OpenAPI",
+        "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik", "Azure B2C", "ADFS",
+        "Entity Framework Core", "Cosmos DB", "SQL Server", "Oracle", "NoSQL",
+        "Selenium", "SpecFlow", "Postman", "JMeter",
         "PowerShell", "Bash",
-        "Windows", "Linux",
-        "DevExpress Components", "Cake Build", "Inno Setup",
-        "Delphi 6–2007", "RemObjects", "Raize Components", "LMD Tools", "Berg", "TMS", "JCL/JVCL", "Turbo Power"
+        "Windows", "Linux"
       ]
     }
   ],
@@ -109,17 +106,12 @@
       "name": "Flex API v1",
       "description": "Original Flex API enabling third-party integrations into access control systems. Widely deployed with extensive developer support and NuGet packages.",
       "url": "https://bitbucket.org/ooaccess/flex-api-samples/src/V1/",
-      "keywords": [".NET 4.5", "XML-RPC", "Telerik OpenAccess", "NuGet", "Silverlight", "Xamarin"]
+      "keywords": [".NET 4.5", "XML-RPC", "Telerik OpenAccess", "NuGet"]
     },
     {
       "name": "Misc. C# Projects",
       "description": "Diagnostics tools, COM integrations for HID/Schlage devices, offline lock applications, Axis A1001 integration, licensing website.",
-      "keywords": [".NET Full Framework", "WPF", "Telerik OpenAccess", "Cake Build", "Inno Setup"]
-    },
-    {
-      "name": "Misc. Delphi Projects",
-      "description": "Legacy Delphi applications including badging system, visitor management, and licensing scheme.",
-      "keywords": ["Delphi 6-2007", "RemObjects", "DevExpress", "Raize Components", "Turbo Power"]
+      "keywords": [".NET Full Framework", "WPF", "Telerik OpenAccess"]
     }
   ],
   "references": []

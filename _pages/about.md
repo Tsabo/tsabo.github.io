@@ -32,4 +32,3 @@ My expertise spans the full software development lifecycle, from backend service
 I thrive at the intersection of system design and hands‑on engineering—whether it’s rewriting a mission‑critical API from the ground up, integrating real‑time event systems, or optimizing infrastructure to squeeze every bit of throughput from hardware and networks. Beyond the technical details, I’m passionate about building tools that are not only powerful but also intuitive, enabling developers and end‑users alike to succeed.
 
 Outside of work, I’m a husband and proud father of two boys. Family is at the center of my life, and I enjoy spending time outdoors with them—whether it’s fishing, exploring, or simply being together. That balance between deep technical focus and meaningful personal time keeps me grounded and inspired in everything I do.
-

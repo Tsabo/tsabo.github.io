@@ -25,17 +25,62 @@
     {
       "name": "Technologies",
       "keywords": [
-        ".NET (Core preview → 10)", "ASP.NET Core", "Blazor", "WPF", "Docker", "Azure Functions", "GitHub Copilot", "Kubernetes", "AKS",
-        "C#", "JavaScript", "TypeScript", "HTML", "CSS",
-        "Azure DevOps", "Terraform", "Azure Pipelines", "Azure Key Vault", "Azure Blob Storage", "Azure Event Hubs", "Cosmos DB", "Application Insights", "KQL",
-        "Cloudflare Tunnel", "YARP",
-        "Git", "Jira",
-        "RESTful APIs", "gRPC", "SignalR", "GraphQL", "MQTT", "MSMQ", "SOAP", "XML-RPC", "Microservices", "Swagger", "Swashbuckle", "OpenAPI",
-        "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik", "Azure B2C", "ADFS",
-        "Entity Framework Core", "Cosmos DB", "SQL Server", "NoSQL",
-        "SpecFlow", "Postman", "Reqnroll",
+        ".NET (Core preview → 10)",
+        "ASP.NET Core",
+        "Blazor",
+        "WPF",
+        "Docker",
+        "Azure Functions",
+        "GitHub Copilot",
+        "Kubernetes",
+        "AKS",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Azure DevOps",
+        "Terraform",
+        "Azure Pipelines",
+        "Azure Key Vault",
+        "Azure Blob Storage",
+        "Azure Event Hubs",
+        "Cosmos DB",
+        "Application Insights",
+        "KQL",
+        "Cloudflare Tunnel",
+        "YARP",
+        "Git",
+        "Jira",
+        "RESTful APIs",
+        "gRPC",
+        "SignalR",
+        "GraphQL",
+        "MQTT",
+        "MSMQ",
+        "SOAP",
+        "XML-RPC",
+        "Microservices",
+        "Swagger",
+        "Swashbuckle",
+        "OpenAPI",
+        "OAuth 2.0",
+        "OpenID Connect",
+        "Identity Server 4",
+        "Auth0",
+        "Authentik",
+        "Azure B2C",
+        "ADFS",
+        "Entity Framework Core",
+        "Cosmos DB",
+        "SQL Server",
+        "NoSQL",
+        "SpecFlow",
+        "Postman",
+        "Reqnroll",
         "PowerShell",
-        "Windows", "Linux"
+        "Windows",
+        "Linux"
       ]
     }
   ],
@@ -60,10 +105,7 @@
       "startDate": "2024-11",
       "endDate": "2025-06",
       "summary": "Developing enterprise software solutions for OneStream Software as a contractor through Mouri Tech.",
-      "highlights": [
-        "C#, .NET 8, ASP.NET Core, Blazor",
-        "Azure DevOps, Git, Jira"
-      ]
+      "highlights": ["C#, .NET 8, ASP.NET Core, Blazor", "Azure DevOps, Git, Jira"]
     },
     {
       "name": "Acre Security (previously Open Options)",
@@ -87,11 +129,7 @@
       "name": "Paperless Transactions",
       "position": "Contract Software Engineer",
       "summary": "Developed online donation and payment processing platform for churches.",
-      "highlights": [
-        "ASP.NET Web Forms, WCF, .NET 4.8",
-        "Fiserv Compass API integration",
-        "Ensured PCI compliance and supported PEN testing"
-      ]
+      "highlights": ["ASP.NET Web Forms, WCF, .NET 4.8", "Fiserv Compass API integration", "Ensured PCI compliance and supported PEN testing"]
     }
   ],
   "projects": [
@@ -107,13 +145,23 @@
     },
     {
       "name": "BrowserLogging",
-      "url": "browniellc/BrowserLogging"
+      "url": "https://github.com/browniellc/BrowserLogging"
     },
     {
       "name": "Flex API v2",
       "description": "Complete rewrite of Flex API using ASP.NET Core 7.0 with modular architecture, Blazor frontend, IdentityServer4 authentication, MQTT broker, reporting, and hybrid cloud tunneling.",
       "url": "https://bitbucket.org/ooaccess/flex-api-samples",
-      "keywords": ["ASP.NET Core", "Entity Framework Core", "Blazor", "IdentityServer4", "MQTT", "Swagger", "DevExpress", "Cloudflare Argo Tunnel", "YARP"]
+      "keywords": [
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "Blazor",
+        "IdentityServer4",
+        "MQTT",
+        "Swagger",
+        "DevExpress",
+        "Cloudflare Argo Tunnel",
+        "YARP"
+      ]
     },
     {
       "name": "Flex API v1",

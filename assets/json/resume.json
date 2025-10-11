@@ -25,21 +25,49 @@
     {
       "name": "Technologies",
       "keywords": [
-        ".NET", "ASP.NET Core", "WPF", "Blazor", "Docker",
-        "SOAP", "XML-RPC", "RESTful APIs", "SignalR", "gRPC",
-        "Swagger/Swashbuckle", "MQTT", "MSMQ", "GraphQL", "Microservices",
-        "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik",
-        "Azure B2C", "Active Directory Federation Server",
-        "Entity Framework Core", "Telerik OpenAccess", "RemoObject Data Access"
+        ".NET", ".NET Core", ".NET 4.5", ".NET 8", "ASP.NET Core", "ASP.NET MVC", "WPF", "Blazor", "Xamarin", "Silverlight",
+        "C#", "Java", "Go", "JavaScript", "TypeScript", "Node.js", "Angular", "CSS",
+        "Docker", "Kubernetes", "Azure Kubernetes Service (AKS)", "Terraform", "Cloudflare Argo Tunnel", "YARP",
+        "Azure DevOps", "Git", "Jira", "Jenkins", "Chef", "Octopus Deploy", "ARM Templates",
+        "SOAP", "XML-RPC", "RESTful APIs", "SignalR", "gRPC", "GraphQL", "MQTT", "MSMQ", "Microservices",
+        "Swagger", "Swashbuckle", "OpenAPI",
+        "OAuth 2.0", "OpenID Connect", "Identity Server 4", "Auth0", "Authentik", "Azure B2C", "Active Directory Federation Services (ADFS)",
+        "Entity Framework Core", "Telerik OpenAccess ORM", "RemObjects Data Access",
+        "SQL Server", "Oracle", "CosmosDB", "NoSQL",
+        "Selenium", "SpecFlow", "Postman", "JMeter", "Maven", "TestNG", "Xamarin.UITest",
+        "PowerShell", "Bash",
+        "Windows", "Linux",
+        "DevExpress Components", "Cake Build", "Inno Setup",
+        "Delphi 6–2007", "RemObjects", "Raize Components", "LMD Tools", "Berg", "TMS", "JCL/JVCL", "Turbo Power"
       ]
     }
   ],
   "work": [
     {
+      "name": "GM Financial",
+      "position": "Senior Software Engineer",
+      "startDate": "2025-06",
+      "summary": "Contribute across the full software development lifecycle as part of an Agile Scrum team, delivering scalable, secure, and high‑performing solutions with minimal supervision. Develop features for data marketplaces, mobile and web applications, and API services while driving the migration of products to the public cloud.",
+      "highlights": [
+        "Design, build, test, and deploy software using automated CI/CD pipelines, continuously improving speed and quality.",
+        "Implement cloud‑native solutions leveraging Azure DevOps, Kubernetes, Docker, and Terraform.",
+        "Develop APIs and services in C# and .NET Core.",
+        "Contribute to test automation (Selenium, SpecFlow, Postman, JMeter) and peer reviews to ensure reliability and maintainability.",
+        "Apply strong data/query optimization skills across SQL Server, Oracle, and NoSQL (CosmosDB) for performance at scale.",
+        "Maintain a production‑first mindset, ensuring uptime, rapid triage, and resolution of issues in mission‑critical environments.",
+        "Champion Agile best practices, fostering continuous improvement in product quality, delivery speed, and team collaboration."
+      ]
+    },
+    {
       "name": "Mouri Tech (contracted to OneStream Software)",
       "position": "Senior Software Engineer",
       "startDate": "2024-11",
-      "summary": "Developing enterprise software solutions for OneStream Software as a contractor through Mouri Tech."
+      "endDate": "2025-06",
+      "summary": "Developing enterprise software solutions for OneStream Software as a contractor through Mouri Tech.",
+      "highlights": [
+        "C#, .NET 8, ASP.NET Core, Blazor",
+        "Azure DevOps, Git, Jira"
+      ]
     },
     {
       "name": "Acre Security (previously Open Options)",

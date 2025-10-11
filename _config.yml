@@ -198,6 +198,10 @@ exclude:
   - projects/
   - teaching/
   - people/
+  - pages/projects.md
+  - pages/teaching.md
+  - pages/publications.md
+  - pages/people.md
 keep_files:
   - CNAME
   - .nojekyll

@@ -49,8 +49,7 @@
         "Design, build, test, and deploy software using automated CI/CD pipelines, continuously improving speed and quality.",
         "Implement cloud‑native solutions leveraging Azure DevOps, Kubernetes, Docker, and Terraform.",
         "Develop APIs and services in C# and .NET Core.",
-        "Contribute to test automation (Selenium, SpecFlow, Postman, JMeter) and peer reviews to ensure reliability and maintainability.",
-        "Apply strong data/query optimization skills across SQL Server, Oracle, and NoSQL (CosmosDB) for performance at scale.",
+        "Apply strong data/query optimization skills across SQL Server, and NoSQL (CosmosDB) for performance at scale.",
         "Maintain a production‑first mindset, ensuring uptime, rapid triage, and resolution of issues in mission‑critical environments.",
         "Champion Agile best practices, fostering continuous improvement in product quality, delivery speed, and team collaboration."
       ]

@@ -94,6 +94,22 @@
 - title: Certificates
   type: time_table
   contents:
+    - title: Information and Cyber Security GRC
+      institution: Pluralsight
+      year: 2023
+      description: Focused on Governance, Risk, and Compliance (GRC) frameworks in cybersecurity and information security management.
+    - title: Core Concepts of Generative AI for Developers
+      institution: Pluralsight
+      year: 2024
+      description: Foundational course on generative AI concepts and practical applications for software development.
+    - title: Building a Strong Cyber Security Foundation
+      institution: Pluralsight
+      year: 2025
+      description: Comprehensive course covering fundamental cybersecurity principles, threat assessment, and security best practices.
+    - title: The PCI Security Standards
+      institution: Pluralsight
+      year: 2025
+      description: In-depth study of Payment Card Industry Data Security Standard (PCI DSS) compliance requirements and implementation.
     - title: Introduction to Generative AI for Software Development
       institution: DeepLearning.AI (via Coursera)
       year: 2025

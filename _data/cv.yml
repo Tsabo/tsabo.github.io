@@ -91,6 +91,14 @@
         - Description 1.
         - Description 2.
 
+- title: Certificates
+  type: time_table
+  contents:
+    - title: Introduction to Generative AI for Software Development
+      institution: DeepLearning.AI (via Coursera)
+      year: 2025
+      description: Completed an online non-credit course focused on applying generative AI techniques to software development, taught by Laurence Moroney.
+
 - title: Other Interests
   type: list
   contents:

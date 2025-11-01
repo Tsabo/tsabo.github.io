@@ -175,5 +175,13 @@
       "keywords": [".NET Full Framework", "WPF", "Telerik OpenAccess"]
     }
   ],
+  "certificates": [
+    {
+      "name": "Introduction to Generative AI for Software Development",
+      "issuer": "DeepLearning.AI (via Coursera)",
+      "date": "2025-11",
+      "url": "https://www.coursera.org/account/accomplishments/verify/4G58HNR3SA9S"
+    }
+  ],
   "references": []
 }

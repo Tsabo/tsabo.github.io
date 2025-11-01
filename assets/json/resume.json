@@ -177,6 +177,30 @@
   ],
   "certificates": [
     {
+      "name": "Information and Cyber Security GRC",
+      "issuer": "Pluralsight",
+      "date": "2023-12",
+      "url": "assets/certificates/Pluralsight Information and Cyber Security GRC.pdf"
+    },
+    {
+      "name": "Core Concepts of Generative AI for Developers",
+      "issuer": "Pluralsight",
+      "date": "2024-09",
+      "url": "assets/certificates/Pluralsight Core Concepts of Generative AI for Developers.pdf"
+    },
+    {
+      "name": "Building a Strong Cyber Security Foundation",
+      "issuer": "Pluralsight",
+      "date": "2025-01",
+      "url": "assets/certificates/Pluralsight Building a Strong Cyber Security Foundation.pdf"
+    },
+    {
+      "name": "The PCI Security Standards",
+      "issuer": "Pluralsight",
+      "date": "2025-01",
+      "url": "assets/certificates/Pluralsight The PCI Security Standards.pdf"
+    },
+    {
       "name": "Introduction to Generative AI for Software Development",
       "issuer": "DeepLearning.AI (via Coursera)",
       "date": "2025-11",

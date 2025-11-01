@@ -27,6 +27,10 @@ nav_order: 6
   - [Certificate PDF]({{ '/assets/certificates/Pluralsight Information and Cyber Security GRC.pdf' | relative_url }})
   - Focused on Governance, Risk, and Compliance (GRC) frameworks in cybersecurity and information security management
 
+- **Up and Running with Kusto Query Language (KQL)** – Pluralsight (2025)
+  - [Certificate PDF]({{ '/assets/certificates/Pluralsight Up and Running with Kusto Query Language (KQL).pdf' | relative_url }})
+  - Comprehensive course on Microsoft's Kusto Query Language (KQL) for data analysis and log analytics in Azure environments
+
 ### Coursera Certificates
 
 - **Introduction to Generative AI for Software Development** – DeepLearning.AI (2025)

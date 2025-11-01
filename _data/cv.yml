@@ -114,6 +114,10 @@
       institution: DeepLearning.AI (via Coursera)
       year: 2025
       description: Completed an online non-credit course focused on applying generative AI techniques to software development, taught by Laurence Moroney.
+    - title: Up and Running with Kusto Query Language (KQL)
+      institution: Pluralsight
+      year: 2025
+      description: Comprehensive course on Microsoft's Kusto Query Language (KQL) for data analysis and log analytics in Azure environments.
 
 - title: Other Interests
   type: list

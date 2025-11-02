@@ -1,14 +1,15 @@
 github_users:
   - tsabo
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - Tsabo/Semantix
   - Tsabo/ReQonsole
-  - browniellc/EndCredits
-  - browniellc/BrowserLogging
-  - browniellc/EmojiTools
+  - Tsabo/PowerShell-DevKit
+  - Tsabo/EmojiTools
+  - Tsabo/EndCredits
+  - Tsabo/BrowserLogging
   - acresecurity/oo-flex-api-samples
   - acresecurity/oo-hardware-event-simulator
   - acresecurity/oo-flex-docker

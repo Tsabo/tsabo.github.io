@@ -201,6 +201,18 @@
       "url": "assets/certificates/Pluralsight The PCI Security Standards.pdf"
     },
     {
+      "name": "Code Review with GitHub Copilot",
+      "issuer": "Pluralsight",
+      "date": "2025-08",
+      "url": "assets/certificates/Code Review with GitHub Copilot.png"
+    },
+    {
+      "name": "Master the Art of Prompt Engineering for Generative AI",
+      "issuer": "Udemy",
+      "date": "2025-09",
+      "url": "assets/certificates/Master the Art of Prompt Engineering for Generative AI.pdf"
+    },
+    {
       "name": "Introduction to Generative AI for Software Development",
       "issuer": "DeepLearning.AI (via Coursera)",
       "date": "2025-11",

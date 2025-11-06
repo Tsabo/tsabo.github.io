@@ -118,7 +118,14 @@
       institution: Pluralsight
       year: 2025
       description: Comprehensive course on Microsoft's Kusto Query Language (KQL) for data analysis and log analytics in Azure environments.
-
+    - title: Master the Art of Prompt Engineering for Generative AI
+      institution: Udemy
+      year: 2025
+      description: Learn the Best Framework for Building Highly Effective Prompts for ChatGPT, Google Gemini and Microsoft Copilot.
+    - title: Code Review with GitHub Copilot
+      institution: Pluralsight
+      year: 2025
+      description: How to effectively use GitHub Copilot and GitHub Copilot Chat in your daily workflow as a software engineer.
 - title: Other Interests
   type: list
   contents:

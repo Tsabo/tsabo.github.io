@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Professional Certifications
-
 ### Pluralsight Certificates
 
 - **The PCI Security Standards** – Pluralsight (2025)
@@ -31,11 +29,21 @@ nav_order: 6
   - [Certificate PDF]({{ '/assets/certificates/Pluralsight Up and Running with Kusto Query Language (KQL).pdf' | relative_url }})
   - Comprehensive course on Microsoft's Kusto Query Language (KQL) for data analysis and log analytics in Azure environments
 
+- **Code Review with GitHub Copilot** Pluralsight (2025)
+  - [Certificate PNG]({{ 'assets/certificates/Code Review with GitHub Copilot.png' | relative_url }})
+  - How to effectively use GitHub Copilot and GitHub Copilot Chat in your daily workflow as a software engineer.
+
 ### Coursera Certificates
 
 - **Introduction to Generative AI for Software Development** – DeepLearning.AI (2025)
   - [Certificate Link](https://coursera.org/verify/4G58HNR3SA9S)
   - Online non-credit course focused on applying generative AI techniques to software development, taught by Laurence Moroney
+
+### Udemy Certificates
+
+- **Master the Art of Prompt Engineering for Generative AI** - Udemy (2025)
+  - [Certificate PDF]({{ '/assets/certificates/Master the Art of Prompt Engineering for Generative AI.pdf' | relative_url }})
+  - Learn the Best Framework for Building Highly Effective Prompts for ChatGPT, Google Gemini and Microsoft Copilot.
 
 ---
 

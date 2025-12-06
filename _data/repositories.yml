@@ -5,6 +5,7 @@ repo_description_lines_max: 3
 
 github_repos:
   - Tsabo/ClipMate
+  - Tsabo/practical-sde-assessments
   - Tsabo/Semantix
   - Tsabo/ReQonsole
   - Tsabo/PowerShell-DevKit

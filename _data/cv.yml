@@ -126,6 +126,10 @@
       institution: Pluralsight
       year: 2025
       description: How to effectively use GitHub Copilot and GitHub Copilot Chat in your daily workflow as a software engineer.
+    - title: Transitioning to PCI DSS v40
+      institution: Pluralsight
+      year: 2025
+      description: A comprehensive course on the changes and requirements of PCI DSS version 4.0 for organizations handling payment card data.
 - title: Other Interests
   type: list
   contents:

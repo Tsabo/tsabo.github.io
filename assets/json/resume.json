@@ -146,6 +146,26 @@
   ],
   "projects": [
     {
+      "name": "ClipMate",
+      "description": "A modern recreation of the classic ClipMate clipboard manager",
+      "url": "https://github.com/Tsabo/ClipMate"
+    },
+    {
+      "name": "PowerShell DevKit",
+      "description": "A complete, enterprise-grade PowerShell development environment automation suite with advanced Yazi integration, intelligent failure recovery, and component-based architecture.",
+      "url": "https://github.com/Tsabo/PowerShell-DevKit"
+    },
+    {
+      "name": "Practical Software Developer Assessments",
+      "description": "Practical .NET take-home assessments and interviewer guides focused on real-world engineering, not whiteboard puzzles.",
+      "url": "https://github.com/Tsabo/practical-sde-assessments"
+    },
+    {
+      "name": "EmojiTools",
+      "description": "A powerful PowerShell module for emoji search, management, and lookup with **automatic Unicode CLDR integration** to keep your emoji dataset always current.",
+      "url": "https://github.com/Tsabo/EmojiTools"
+    },
+    {
       "name": "Semantix",
       "description": "LSIF‑first, Sourcegraph‑style code intelligence in pure C# with .NET Aspire: multi‑language indexing, deterministic code intel, and semantic search.",
       "url": "https://github.com/Tsabo/Semantix"

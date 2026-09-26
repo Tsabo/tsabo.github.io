@@ -9,7 +9,7 @@
       "region": "TX",
       "countryCode": "US"
     },
-    "summary": "Methodical and solution-focused Chief Software Architect with 23+ years of full-stack software engineering experience. Expert in the software development lifecycle with a proven history of developing backend services and user interfaces for desktop and web. Proficient in .NET, C#, and Azure to create scalable, observable, and high-performing solutions."
+    "summary": "Methodical and solution-focused Chief Software Architect with 25+ years of full-stack software engineering experience. Expert in the software development lifecycle with a proven history of developing backend services and user interfaces for desktop and web. Proficient in .NET, C#, and Azure to create scalable, observable, and high-performing solutions."
   },
   "skills": [
     {
@@ -98,9 +98,6 @@
       "position": "Senior Software Engineer",
       "startDate": "2025-06",
       "endDate": "2026-01",
-      "name": "GM Financial",
-      "position": "Senior Software Engineer",
-      "startDate": "2025-06",
       "summary": "Contribute across the full software development lifecycle as part of an Agile Scrum team, delivering scalable, secure, and high‑performing solutions with minimal supervision. Develop features for data marketplaces, mobile and web applications, and API services while driving the migration of products to the public cloud.",
       "highlights": [
         "Design, build, test, and deploy software using automated CI/CD pipelines, continuously improving speed and quality.",
@@ -145,6 +142,26 @@
     }
   ],
   "projects": [
+    {
+      "name": "ClipMate",
+      "description": "A modern recreation of the classic ClipMate clipboard manager",
+      "url": "https://github.com/Tsabo/ClipMate"
+    },
+    {
+      "name": "PowerShell DevKit",
+      "description": "A complete, enterprise-grade PowerShell development environment automation suite with advanced Yazi integration, intelligent failure recovery, and component-based architecture.",
+      "url": "https://github.com/Tsabo/PowerShell-DevKit"
+    },
+    {
+      "name": "Practical Software Developer Assessments",
+      "description": "Practical .NET take-home assessments and interviewer guides focused on real-world engineering, not whiteboard puzzles.",
+      "url": "https://github.com/Tsabo/practical-sde-assessments"
+    },
+    {
+      "name": "EmojiTools",
+      "description": "A powerful PowerShell module for emoji search, management, and lookup with **automatic Unicode CLDR integration** to keep your emoji dataset always current.",
+      "url": "https://github.com/Tsabo/EmojiTools"
+    },
     {
       "name": "Semantix",
       "description": "LSIF‑first, Sourcegraph‑style code intelligence in pure C# with .NET Aspire: multi‑language indexing, deterministic code intel, and semantic search.",

@@ -5,12 +5,14 @@ repo_description_lines_max: 3
 
 github_repos:
   - Tsabo/ClipMate
+  - Tsabo/Door-Simulator
+  - Tsabo/nugraph-action
+  - Tsabo/MongoLinqPadDriver
+  - Tsabo/Data.Schema
   - Tsabo/practical-sde-assessments
-  - Tsabo/Semantix
   - Tsabo/ReQonsole
   - Tsabo/PowerShell-DevKit
   - Tsabo/EmojiTools
-  - Tsabo/EndCredits
   - Tsabo/BrowserLogging
   - acresecurity/oo-flex-api-samples
   - acresecurity/oo-hardware-event-simulator
